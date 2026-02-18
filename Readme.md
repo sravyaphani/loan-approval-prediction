@@ -90,7 +90,7 @@ Loan-Approval-Prediction/
 
 \## 📊 Model Used
 
-(Add the model you used here, for example: Logistic Regression)
+(Logistic Regression)
 
 
 
