@@ -96,7 +96,7 @@ Loan-Approval-Prediction/
 
 \## 📈 Results
 
-(Add model accuracy or evaluation metrics here)
+Model Accuracy: 79%
 
 
 
